@@ -30,7 +30,7 @@ s.framework = "UIKit"
 s.source_files = "PODEMO/**/*.{swift}"
 
 # 9
-s.resources = "PODEMO/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+# s.resources = "PODEMO/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "5.0"
