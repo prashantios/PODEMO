@@ -8,7 +8,7 @@
 import Foundation
 public final class PodDemo {
 
-    let name = "SwiftyLib"
+    let name = "PODEMO"
     
     public func add(a: Int, b: Int) -> Int {
         return a + b
